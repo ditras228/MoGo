@@ -1,0 +1,22 @@
+{
+  "name": "mogo",
+  "version": "1.0.0",
+  "description": "С этого лендинга началось моё знакомство с Front-end'ом",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditras228/MoGo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ditras228/MoGo/issues"
+  },
+  "homepage": "https://github.com/ditras228/MoGo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
